@@ -63,6 +63,70 @@ This project showcases a neural network that learns to play the classic Snake ga
    python snake_reinforcement_learning.py
    ```
 
+
+---
+
+# 3. MediLife Pro
+
+MediLife Pro is a machine learning-based web application designed to predict the disease of a patient based on their symptoms. It provides detailed information including medication, precautions, disease description, recommended workout, and diet plan. This project utilizes a Support Vector Classifier (SVC) and is built using Flask for the web interface. The backend is powered by pandas, numpy, and scikit-learn.
+
+## Features
+
+- Predicts diseases based on input symptoms.
+- Provides detailed disease descriptions.
+- Recommends appropriate medications.
+- Suggests precautions and preventive measures.
+- Offers workout and diet plans tailored to the predicted disease.
+- User-friendly web interface built with Flask.
+
+## Tech Stack
+
+- **Python**
+- **Flask**
+- **pandas**
+- **numpy**
+- **scikit-learn**
+
+## Installation
+
+### Prerequisites
+
+- Python 3.6+
+- pip (Python package installer)
+
+### Steps
+
+1. **Clone the repository**
+
+    ```bash
+    git clone https://github.com/adityakak27/MediLife-Pro.git
+    cd MediLife-Pro
+    ```
+
+2. **Install the required packages**
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. **Run the application**
+
+    ```bash
+    python app.py
+    ```
+
+    The web application should now be running on `http://127.0.0.1:5000/`.
+
+## Usage
+
+1. Navigate to `http://127.0.0.1:5000/` in your web browser.
+2. Input your symptoms in the provided text field.
+3. Click on the "Predict" button to get the diagnosis and recommendations.
+4. The application will display the predicted disease along with relevant medication, precautions, disease description, workout, and diet plan.
+
+
+
+
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
