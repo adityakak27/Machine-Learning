@@ -1,0 +1,42 @@
+,Disease,Precaution_1,Precaution_2,Precaution_3,Precaution_4
+0,Drug Reaction,Stop Irritation,Consult the Nearest Hospital,Stop taking the drug,Follow up with medical professionals
+1,Malaria,Consult the Nearest Hospital,Avoid oily foods,Avoid Non-Veg food,Keep mosquitos away
+2,Allergy,Apply Calamine,Cover the affected area with bandages,Use ice to surpress itching
+3,Hypothyroidism,Reduce stress,Exercise,Eat Healthy,Get Proper Sleep
+4,Psoriasis,Wash hands with warm soapy water,Stop bleeding using pressure,Consult doctor,Salt Baths
+5,GERD,Avoid fatty & spicy food,Avoid lying down after eating,Maintain a healthy weight,Exercise
+6,Chronic cholestasis,Cold baths,Anti-itch medicine,Consult a doctor,Eat Healthy
+7,hepatitis A,Consult the nearest hospital,Wash hands thouroughly,Avoid fatty & spicy food,Medication
+8,Osteoarthritis,Acetaminophen,Consult the nearest hospital,Follow up with doctors,Salt baths
+9,(vertigo) Paroymsal Positional Vertigo,Lie down,Canalith Repositioning Procedure,Avoid abrupt head movements,Relax
+10,Hypoglycemia,Lie down on side,Check in pulse,Consume sugary foods,Consult doctor
+11,Acne,Bathe twice,Avoid fatty & spicy food,Drink plenty of water,Avoid too many skin products
+12,Diabetes ,Maintain a balanced diet,Exercise,Consult a dietician,Manage stress
+13,Impetigo,Soak the affected area in warm water,Use antibiotics,Remove scabs with wet compressed cloth,Apply topical antibiotics
+14,Hypertension ,Meditation,Salt Baths,Reduce stress,Get proper sleep
+15,Peptic ulcer diseae,Avoid fatty & spicy foods,Consume probiotic food / drinks like curd and Yakult,Eliminate milk from your diet,Limit alcohol
+16,Dimorphic hemmorhoids(piles),Avoid fatty & spicy foods,Consume witch hazel,Take warm epsom salt bath,Consume aloe vera juice
+17,Common Cold,Drink vitamin C rich drinks,Take steam,Avoid cold food,Keep fever in check with antipyretics
+18,Chicken pox,Don't scratch the eruptions ,Consume neem leaves,Take the vaccine,Avoid public places
+19,Cervical spondylosis,Use heating pad or cold pack,Exercise,Take NSAIDs,Consult a doctor
+20,Hyperthyroidism,Maintain a healthy diet,Massage,Use lemon balm,Antithyroid therapy
+21,Urinary tract infection,Drink plenty of water,Increase Vitamin C intake,Drink cranberry juice,Take probiotics
+22,Varicose veins,Lie down flat and raise the leg high,Use oinments,Use vein compression,Don't stand for too long on your legs
+23,AIDS,Avoid open cuts,Wear PPE if possible,Go to a hospital immediately,Restrict outdoor contact
+24,Paralysis (brain hemorrhage),Massage,Eat a healthy diet,Exercise,Consult a doctor
+25,Typhoid,Stay hydrated, Take antibiotics such as Ciprofloxacin or Azithromycin, Manage fever with antipyretics, Keep maintaining a healthy diet and eat vitamin rich foods
+26,Hepatitis B,Take antibiotics,Take interferon injections,Get regular liver function tests,Avoid alcohol and maintain a healthy diet
+27,Fungal infection,Bathe twice a day,Use Dettol or Neem leaves in your bath water,Keep the infected area dry,Use clean and disinfected clothes
+28,Hepatitis C,Take Direct Acting Antivirals(DAAs),Get Vaccinated,Eat healthy and avoid alcohol,Get regular liver function tests
+29,Migraine,Meditation,Stress reduction, Take triptans to reduce pain,Try acupuncture or biofeedback techniques
+30,Bronchial Asthma,Figure Out Your Asthma Triggers and Avoid Them,Take Corticosteroids or Long-Acting Beta Agonists,Take Short-Acting Medication such as Anticholinergics,Always Carry an Emergency Inhaler
+31,Alcoholic hepatitis,Maintain Complete Abstinence from Alcohol,Get Regular Liver Checkups,Take proper medication like Pentoxifylline or relevant Corticosteroids like Prednisolone,Stay Hydrated & Maintain a Healthy Diet
+32,Jaundice,Identify & Treat the Underlying Cause,Get relevant Medication (Antivirals/UDCA Drugs/Immunosuppresive Drugs) ,Eat fruits & fibrous vegetables,Get regular checkups & follow up
+33,Hepatitis E,Go to the hospital immediately,Drink Only Clean and/or Bottled Water,Get to a hospital immediately,Avoid fried & fatty foods
+34,Dengue,Drink Papaya Leaf Juice,Eat fruits like Kiwi and Drink Coconut Water,Keep a Check of Your Platelet Count,Avoid NSAIDs like Ibuprofen & Aspirin
+35,Hepatitis D,Treat for Hepatitis B,Avoid Alcohol and Illicit Drugs,Eat a balanced & healthy diet,Check for Jaundice
+36,Heart attack,Call Emergency Services,Chew or Swallow Aspirin,Keep Calm, Do Not Stress
+37,Pneumonia,Take antibiotics or antivirals depending on your case,Start Oxygen Therapy,rest,follow up
+38,Arthritis,Start with small amounts of exercise,Use hot and cold therapy,Try acupuncture or physiotherapy,Massage joints
+39,Gastroenteritis,Switch to semi solid or completely liquid diet,Keep drinking water,Get plenty of rest,Start consuming whole foods slowly
+40,Tuberculosis,Cover your mouth to prevent spread,Take required antibiotics,Get vaccinated and quit smoking,If you have blood while coughing or a high fever then call emergency services
